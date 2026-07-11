@@ -199,13 +199,6 @@ Developer analytics platform for tracking coding performance and growth.
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushdevo&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</p>
-
----
 
 # 🎯 Current Goals
 
