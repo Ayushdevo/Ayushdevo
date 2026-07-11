@@ -1,192 +1,249 @@
 <div align="center">
 
-# Ayush Tiwari
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F5AF0&height=250&section=header&text=Ayush%20Tiwari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20•%20AI%20Engineer%20•%20Generative%20AI&descAlignY=60" width="100%"/>
 
-### AI/ML Engineer • Machine Learning • Generative AI
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+That+Learn;Machine+Learning+Engineer;Generative+AI+%26+LLM+Developer;Developing+Autonomous+Agents;MLOps+%7C+Deep+Learning+%7C+Data+Science;Transforming+Ideas+Into+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+That+Learn;Training+Models+at+Scale;Developing+Autonomous+Agents;Engineering+Production+ML+Pipelines;Exploring+LLMs+and+Generative+AI;Transforming+Ideas+Into+Intelligence" />
 
 <br>
 
-<p>
-Building intelligent systems with Machine Learning, Deep Learning, and Generative AI.
-</p>
+<a href="https://ayushrao.tech">
+<img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome"/>
+</a>
 
-<p>
-<a href="https://ayushrao.tech">Portfolio</a> •
-<a href="mailto:ayushtiwaridsai@gmail.com">Email</a> •
-<a href="https://github.com/Ayushdevo">GitHub</a> •
-<a href="https://www.kaggle.com/ayushtiwariiitg">Kaggle</a>
-</p>
+<a href="mailto:ayushtiwaridsai@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Ayushdevo&label=Profile+Views&style=for-the-badge" />
+<a href="https://github.com/Ayushdevo">
+<img src="https://img.shields.io/github/followers/Ayushdevo?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.kaggle.com/ayushtiwariiitg">
+<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Ayushdevo&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-## About Me
+# 🚀 About Me
 
 ```python
 class AyushTiwari:
 
-    role = "AI/ML Engineer"
+    def __init__(self):
 
-    interests = [
-        "Machine Learning",
-        "Deep Learning",
-        "Generative AI",
-        "Data Science",
-        "MLOps",
-        "Computer Vision"
-    ]
+        self.role = "Machine Learning Engineer"
 
-    currently_learning = [
-        "Large Language Models",
-        "Agentic AI",
-        "Graph Neural Networks",
-        "Production ML Systems"
-    ]
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "Large Language Models",
+            "MLOps",
+            "Computer Vision"
+        ]
 
-    motto = "Build. Learn. Improve. Repeat."
+        self.currently_learning = [
+            "Agentic AI",
+            "Distributed Machine Learning",
+            "Production ML Systems",
+            "Advanced LLM Architectures"
+        ]
+
+        self.motto = "Build. Learn. Improve. Repeat."
+
+    def mission(self):
+        return "Transforming ideas into intelligent systems"
 ```
 
 ---
 
-## System Status
+# ⚡ System Status
 
 ```text
 ╭──────────────────────────────────────────────╮
 │ Name      : Ayush Tiwari                     │
-│ Role      : AI/ML Engineer                   │
+│ Role      : Machine Learning Engineer        │
 │ Focus     : Generative AI                    │
 │ Status    : Building & Learning              │
-│ Location  : India                            │
 │ Runtime   : Continuous Improvement           │
+│ Version   : v2.0                             │
 ╰──────────────────────────────────────────────╯
 ```
 
 ---
 
-## What I'm Working On
+# 🧠 Mission
+
+Building AI systems that don't just predict —
+
+they reason, remember, collaborate, and evolve.
+
+### Current Areas of Interest
+
+- Agentic AI
+- Large Language Models
+- Deep Learning
+- Distributed Machine Learning
+- Real-Time AI Systems
+- MLOps & Production AI
+
+---
+
+# 🔭 What I'm Working On
 
 - Building AI-powered applications and autonomous agents
+- Developing production-grade Machine Learning systems
 - Exploring LLMs and Generative AI workflows
-- Creating end-to-end Machine Learning pipelines
-- Contributing to open-source projects
-- Solving real-world problems using data
+- Contributing to open-source AI projects
+- Creating scalable AI solutions for real-world problems
 
 ---
 
-## Featured Projects
+# 💼 Featured Projects
 
-### Aura
+## Aura
 
-Personal AI Digital Twin with memory, reasoning, and contextual assistance.
+Personal AI Digital Twin capable of memory, reasoning, contextual assistance, and personalized interactions.
 
-**Tech:** Python • FastAPI • LLMs • Vector Databases
-
----
-
-### CivicPulse AI
-
-AI-powered analytics platform for extracting insights from public data.
-
-**Tech:** NLP • Machine Learning • Python
+**Tech Stack:** Python • FastAPI • LLMs • Vector Databases
 
 ---
 
-### Open Source Intelligence Platform
+## CivicPulse AI
 
-Automated intelligence gathering and analysis framework.
+AI-powered civic intelligence platform for extracting actionable insights from public data.
 
-**Tech:** Python • Data Pipelines • AI Models
-
----
-
-### Leet Heat
-
-Developer performance analytics and coding progress visualization.
-
-**Tech:** React • FastAPI • PostgreSQL
+**Tech Stack:** Python • NLP • Machine Learning
 
 ---
 
-## Tech Stack
+## Open Source Intelligence Platform
 
-### Languages
+Automated intelligence gathering and analysis framework powered by modern AI pipelines.
+
+**Tech Stack:** Python • Data Pipelines • LLMs
+
+---
+
+## Leet Heat
+
+Developer analytics platform for tracking coding performance and growth.
+
+**Tech Stack:** React • FastAPI • PostgreSQL
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Machine Learning & AI
+---
+
+## AI & Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
 
-### Data Science
+---
+
+## Data Science
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-### Backend & Deployment
+---
+
+## Backend & Infrastructure
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ---
 
-## GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushdevo&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushdevo&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushdevo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushdevo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Ayushdevo&theme=tokyonight"/>
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://streak-stats.demolab.com?user=Ayushdevo&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+# 📈 Contribution Graph
 
-## Current Goals
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushdevo&bg_color=0d1117&color=36BCF7&line=7F5AF0&point=FFFFFF&area=true&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushdevo&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 🎯 Current Goals
 
 - Build production-grade AI systems
+- Master LLM Engineering
 - Contribute to impactful open-source projects
-- Deepen expertise in LLMs and Agentic AI
-- Participate in Kaggle competitions
 - Publish high-quality AI/ML projects
+- Participate in Kaggle competitions
+- Secure top AI/ML engineering opportunities
 
 ---
 
-## Connect With Me
+# 🐍 Contribution Snake
 
-📧 Email: **ayushtiwaridsai@gmail.com**
-
-🌐 Portfolio: **https://ayushrao.tech**
-
-💼 LinkedIn: **https://linkedin.com/in/ayus-tiwari**
-
-🐙 GitHub: **https://github.com/Ayushdevo**
-
-📊 Kaggle: **https://www.kaggle.com/ayushtiwariiitg**
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-> *"The best way to predict the future is to build it."*
+# 🤝 Connect With Me
+
+📧 **Email:** ayushtiwaridsai@gmail.com
+
+🌐 **Portfolio:** https://ayushrao.tech
+
+💼 **LinkedIn:** https://linkedin.com/in/ayus-tiwari
+
+🐙 **GitHub:** https://github.com/Ayushdevo
+
+📊 **Kaggle:** https://www.kaggle.com/ayushtiwariiitg
+
+---
+
+<div align="center">
+
+### 💡 "The best way to predict the future is to build it."
+
+</div>
