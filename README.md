@@ -14,9 +14,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/Ayushdevo">
-<img src="https://img.shields.io/github/followers/Ayushdevo?style=for-the-badge&logo=github"/>
-</a>
+
 
 <a href="https://www.kaggle.com/ayushtiwariiitg">
 <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle"/>
