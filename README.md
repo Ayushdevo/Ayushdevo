@@ -1,46 +1,190 @@
-# Hi 👋, I'm Ayush Tiwari
+<div align="center">
 
-### AI/ML Engineer
+# AYUSH TIWARI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayushdevo&label=Profile views&color=0e75b6&style=flat" alt="Ayushdevo" /> </p>
+### AI ENGINEER • MACHINE LEARNING • AGENTIC SYSTEMS
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayushdevo" alt="Ayushdevo" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Autonomous+AI+Systems;Training+Models+at+Scale;Designing+Multi-Agent+Architectures;Deploying+Production+ML+Pipelines;Turning+Ideas+Into+Intelligence"/>
 
-- 🔭 I'm currently working on **AI/ML projects, autonomous AI agents, and real-world machine learning applications**
+<img src="https://komarev.com/ghpvc/?username=Ayushdevo&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
-- 🌱 I'm currently learning **LLMs, Agentic AI, MLOps, Graph Neural Networks, and Advanced Machine Learning**
+</div>
+<p align="center">
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
+</p>
+AI Engineer Dashboard
+╔══════════════════════════════════════════════╗
+║                SYSTEM STATUS                ║
+╠══════════════════════════════════════════════╣
+║ Name      : Ayush Tiwari                    ║
+║ Role      : AI/ML Engineer                  ║
+║ Location  : Building The Future             ║
+║ Status    : Training Models                 ║
+║ Focus     : Agentic AI                      ║
+║ Runtime   : Continuous Learning             ║
+╚══════════════════════════════════════════════╝
 
-- 👯 I'm looking to collaborate on **Open-source AI/ML projects, research initiatives, and innovative data science applications**
+<div align="center">
 
-- 🤝 I'm looking for help with **Distributed ML systems, AI research, and production-scale MLOps**
+```text
+Input Layer
+   ● ● ● ●
+      │
+      ▼
+Hidden Layer
+● ● ● ● ● ●
+      │
+      ▼
+Hidden Layer
+● ● ● ● ● ●
+      │
+      ▼
+Output Layer
+ Prediction
+</div> ```
 
-- 💬 Ask me about **Machine Learning, Data Science, Python, Deep Learning, Generative AI, and Electronics Engineering**
 
-- 📫 How to reach me **ayushtiwaridsai@gmail.com**
 
-- ⚡ Fun fact **I combine Electronics Engineering with AI to build intelligent systems that bridge hardware and software**
+class AIEngineer:
 
-- 👨‍💻 All of my projects are available at **[https://ayushrao.tech/](https://ayushrao.tech/)**
+    def __init__(self):
 
-- 📄 Know about my experiences **[https://drive.google.com/drive/folders/1RnLwbJCLqiY6km7-EKWWUvHBreFMeYqY?usp=sharing](https://drive.google.com/drive/folders/1RnLwbJCLqiY6km7-EKWWUvHBreFMeYqY?usp=sharing)**
+        self.name = "Ayush Tiwari"
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Ayushdevo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ayushdevo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayus-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayus-tiwari" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayushtiwariiitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayushtiwariiitg" height="30" width="40" /></a>
-<a href="https://twitter.com/ayushraoyug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushraoyug" height="30" width="40" /></a>
-<a href="https://codechef.com/users/lush_halo_70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="lush_halo_70" height="30" width="40" /></a>
-<a href="https://hackerrank.com/ayushhbkw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushhbkw" height="30" width="40" /></a>
-<a href="https://leetcode.com/mistayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mistayush" height="30" width="40" /></a>
+        self.skills = {
+            "Machine Learning": 95,
+            "Deep Learning": 92,
+            "LLMs": 90,
+            "MLOps": 85,
+            "Distributed Systems": 82,
+            "Agentic AI": 96
+        }
+
+        self.current_builds = [
+            "Aura Digital Twin",
+            "Distributed Multi-Agent Systems",
+            "Production ML Pipelines",
+            "LLM Powered Applications"
+        ]
+
+    def objective(self):
+        return "Build AI Systems That Think"
+
+          AI ENGINEERING
+
+         ┌──────────────┐
+         │     LLMs     │
+         └──────┬───────┘
+                │
+    ┌───────────┼───────────┐
+    │           │           │
+    ▼           ▼           ▼
+
+LangGraph    RAG      Fine Tuning
+
+    │
+    ▼
+
+Machine Learning
+
+    │
+
+ ┌──┼──┐
+ ▼  ▼  ▼
+
+ML   DL  RL
+Tech Arsenal
+AI & ML
+
+
+
+
+
+
+
+
+Agentic AI
+
+
+
+
+
+
+
+
+MLOps
+
+
+
+
+
+
+Data Engineering
+
+
+
+
+
+
+Architecture I'm Exploring
+User
+ │
+ ▼
+Gateway
+ │
+ ▼
+Planner Agent
+ │
+ ├─────────────┐
+ ▼             ▼
+
+Research     Memory
+Agent        Agent
+
+ ▼             ▼
+
+Vector DB   Knowledge
+
+      ▼
+
+Response Agent
+
+      ▼
+
+User
+GitHub Command Center
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushdevo&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushdevo&layout=compact&theme=tokyonight"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/appwrite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=appwrite" alt="appwrite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/karma" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" alt="karma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/middleman" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mlflow" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ayushdevo&theme=tokyonight"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushdevo&show_icons=true&locale=en&layout=compact" alt="Ayushdevo" /></p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushdevo&theme=tokyonight&column=7"/>
+</p>
+Featured Projects
+AURA
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayushdevo&show_icons=true&locale=en" alt="Ayushdevo" /></p>
+Digital Twin + Long-Term Memory + Agentic AI
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushdevo&" alt="Ayushdevo" /></p>
+10x.AI
 
+Autonomous Multi-Agent Productivity System
+
+CivicPulse AI
+
+Public Intelligence Analytics Platform
+
+Open Source Intelligence Platform
+
+AI-powered information gathering framework
+
+Leet Heat
+
+Developer performance analytics engine
+
+> Building AI systems that don't just predict —
+> they reason, remember, collaborate, and evolve.
