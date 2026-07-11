@@ -180,9 +180,11 @@ Developer analytics platform for tracking coding performance and growth.
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushdevo&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Ayushdevo&theme=tokyonight&hide_border=true" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushdevo&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayushdevo&theme=tokyonight" />
 </p>
 
 <p align="center">
