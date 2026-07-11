@@ -1,190 +1,160 @@
 <div align="center">
 
-# AYUSH TIWARI
+# Ayush Tiwari
 
-### AI ENGINEER • MACHINE LEARNING • AGENTIC SYSTEMS
+### AI/ML Engineer • Machine Learning Enthusiast • Data Science & AI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Autonomous+AI+Systems;Training+Models+at+Scale;Designing+Multi-Agent+Architectures;Deploying+Production+ML+Pipelines;Turning+Ideas+Into+Intelligence"/>
+<p>
+Building intelligent systems with Machine Learning, Deep Learning, and Generative AI.
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Ayushdevo&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<p>
+<a href="https://ayushrao.tech">Portfolio</a> •
+<a href="mailto:ayushtiwaridsai@gmail.com">Email</a> •
+<a href="https://github.com/Ayushdevo">GitHub</a> •
+<a href="https://www.kaggle.com/ayushtiwariiitg">Kaggle</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Ayushdevo&label=Profile+Views&style=for-the-badge" />
 
 </div>
+
+---
+
+## About Me
+
+```python
+class AyushTiwari:
+
+    role = "AI/ML Engineer"
+
+    interests = [
+        "Machine Learning",
+        "Deep Learning",
+        "Generative AI",
+        "Data Science",
+        "MLOps",
+        "Computer Vision"
+    ]
+
+    currently_learning = [
+        "Large Language Models",
+        "Agentic AI",
+        "Graph Neural Networks",
+        "Production ML Systems"
+    ]
+
+    motto = "Build. Learn. Improve. Repeat."
+```
+
+---
+
+## What I'm Working On
+
+- Building AI-powered applications and autonomous agents
+- Exploring LLMs and Generative AI workflows
+- Creating end-to-end Machine Learning pipelines
+- Contributing to open-source projects
+- Solving real-world problems using data
+
+---
+
+## Featured Projects
+
+### Aura
+Personal AI Digital Twin with memory, reasoning, and contextual assistance.
+
+**Tech:** Python, FastAPI, LLMs, Vector Databases
+
+---
+
+### CivicPulse AI
+AI-powered analytics platform for extracting insights from public data.
+
+**Tech:** NLP, Machine Learning, Python
+
+---
+
+### Open Source Intelligence Platform
+Automated intelligence gathering and analysis framework.
+
+**Tech:** Python, Data Pipelines, AI Models
+
+---
+
+### Leet Heat
+Developer performance analytics and coding progress visualization.
+
+**Tech:** React, FastAPI, PostgreSQL
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Machine Learning & AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+
+### Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### Backend & Deployment
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+---
+
+## GitHub Analytics
+
 <p align="center">
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
-</p>
-AI Engineer Dashboard
-╔══════════════════════════════════════════════╗
-║                SYSTEM STATUS                ║
-╠══════════════════════════════════════════════╣
-║ Name      : Ayush Tiwari                    ║
-║ Role      : AI/ML Engineer                  ║
-║ Location  : Building The Future             ║
-║ Status    : Training Models                 ║
-║ Focus     : Agentic AI                      ║
-║ Runtime   : Continuous Learning             ║
-╚══════════════════════════════════════════════╝
-
-<div align="center">
-
-```text
-Input Layer
-   ● ● ● ●
-      │
-      ▼
-Hidden Layer
-● ● ● ● ● ●
-      │
-      ▼
-Hidden Layer
-● ● ● ● ● ●
-      │
-      ▼
-Output Layer
- Prediction
-</div> ```
-
-
-
-class AIEngineer:
-
-    def __init__(self):
-
-        self.name = "Ayush Tiwari"
-
-        self.skills = {
-            "Machine Learning": 95,
-            "Deep Learning": 92,
-            "LLMs": 90,
-            "MLOps": 85,
-            "Distributed Systems": 82,
-            "Agentic AI": 96
-        }
-
-        self.current_builds = [
-            "Aura Digital Twin",
-            "Distributed Multi-Agent Systems",
-            "Production ML Pipelines",
-            "LLM Powered Applications"
-        ]
-
-    def objective(self):
-        return "Build AI Systems That Think"
-
-          AI ENGINEERING
-
-         ┌──────────────┐
-         │     LLMs     │
-         └──────┬───────┘
-                │
-    ┌───────────┼───────────┐
-    │           │           │
-    ▼           ▼           ▼
-
-LangGraph    RAG      Fine Tuning
-
-    │
-    ▼
-
-Machine Learning
-
-    │
-
- ┌──┼──┐
- ▼  ▼  ▼
-
-ML   DL  RL
-Tech Arsenal
-AI & ML
-
-
-
-
-
-
-
-
-Agentic AI
-
-
-
-
-
-
-
-
-MLOps
-
-
-
-
-
-
-Data Engineering
-
-
-
-
-
-
-Architecture I'm Exploring
-User
- │
- ▼
-Gateway
- │
- ▼
-Planner Agent
- │
- ├─────────────┐
- ▼             ▼
-
-Research     Memory
-Agent        Agent
-
- ▼             ▼
-
-Vector DB   Knowledge
-
-      ▼
-
-Response Agent
-
-      ▼
-
-User
-GitHub Command Center
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushdevo&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushdevo&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushdevo&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushdevo&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Ayushdevo&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushdevo&theme=tokyonight&column=7"/>
-</p>
-Featured Projects
-AURA
+---
 
-Digital Twin + Long-Term Memory + Agentic AI
+## Current Goals
 
-10x.AI
+- Build production-grade AI systems
+- Contribute to impactful open-source projects
+- Deepen expertise in LLMs and Agentic AI
+- Participate in Kaggle competitions
+- Publish high-quality AI/ML projects
 
-Autonomous Multi-Agent Productivity System
+---
 
-CivicPulse AI
+## Connect With Me
 
-Public Intelligence Analytics Platform
+📧 Email: ayushtiwaridsai@gmail.com
 
-Open Source Intelligence Platform
+🌐 Portfolio: https://ayushrao.tech
 
-AI-powered information gathering framework
+💼 LinkedIn: https://linkedin.com/in/ayus-tiwari
 
-Leet Heat
+🐙 GitHub: https://github.com/Ayushdevo
 
-Developer performance analytics engine
+📊 Kaggle: https://www.kaggle.com/ayushtiwariiitg
 
-> Building AI systems that don't just predict —
-> they reason, remember, collaborate, and evolve.
+---
+
+> "The best way to predict the future is to build it."
