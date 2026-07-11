@@ -3,7 +3,12 @@
 # Ayush Tiwari
 
 ### AI/ML Engineer • Machine Learning Enthusiast • Data Science & AI
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+That+Learn;Machine+Learning+Engineer;Generative+AI+%26+LLM+Developer;Developing+Autonomous+Agents;MLOps+%7C+Deep+Learning+%7C+Data+Science;Transforming+Ideas+Into+Intelligence" />
+## Contribution Activity
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 <p>
 Building intelligent systems with Machine Learning, Deep Learning, and Generative AI.
 </p>
@@ -46,7 +51,17 @@ class AyushTiwari:
 
     motto = "Build. Learn. Improve. Repeat."
 ```
+## System Status
 
+```text
+╭──────────────────────────────────────────────╮
+│ Name      : Ayush Tiwari                     │
+│ Role      : AI/ML Engineer                   │
+│ Focus     : Generative AI                    │
+│ Status    : Building & Learning              │
+│ Location  : India                            │
+│ Runtime   : Continuous Improvement           │
+╰──────────────────────────────────────────────╯
 ---
 
 ## What I'm Working On
