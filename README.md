@@ -2,13 +2,12 @@
 
 # Ayush Tiwari
 
-### AI/ML Engineer • Machine Learning Enthusiast • Data Science & AI
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+That+Learn;Machine+Learning+Engineer;Generative+AI+%26+LLM+Developer;Developing+Autonomous+Agents;MLOps+%7C+Deep+Learning+%7C+Data+Science;Transforming+Ideas+Into+Intelligence" />
-## Contribution Activity
+### AI/ML Engineer • Machine Learning • Generative AI
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+That+Learn;Machine+Learning+Engineer;Generative+AI+%26+LLM+Developer;Developing+Autonomous+Agents;MLOps+%7C+Deep+Learning+%7C+Data+Science;Transforming+Ideas+Into+Intelligence" />
+
+<br>
+
 <p>
 Building intelligent systems with Machine Learning, Deep Learning, and Generative AI.
 </p>
@@ -51,6 +50,9 @@ class AyushTiwari:
 
     motto = "Build. Learn. Improve. Repeat."
 ```
+
+---
+
 ## System Status
 
 ```text
@@ -62,6 +64,8 @@ class AyushTiwari:
 │ Location  : India                            │
 │ Runtime   : Continuous Improvement           │
 ╰──────────────────────────────────────────────╯
+```
+
 ---
 
 ## What I'm Working On
@@ -77,30 +81,34 @@ class AyushTiwari:
 ## Featured Projects
 
 ### Aura
+
 Personal AI Digital Twin with memory, reasoning, and contextual assistance.
 
-**Tech:** Python, FastAPI, LLMs, Vector Databases
+**Tech:** Python • FastAPI • LLMs • Vector Databases
 
 ---
 
 ### CivicPulse AI
+
 AI-powered analytics platform for extracting insights from public data.
 
-**Tech:** NLP, Machine Learning, Python
+**Tech:** NLP • Machine Learning • Python
 
 ---
 
 ### Open Source Intelligence Platform
+
 Automated intelligence gathering and analysis framework.
 
-**Tech:** Python, Data Pipelines, AI Models
+**Tech:** Python • Data Pipelines • AI Models
 
 ---
 
 ### Leet Heat
+
 Developer performance analytics and coding progress visualization.
 
-**Tech:** React, FastAPI, PostgreSQL
+**Tech:** React • FastAPI • PostgreSQL
 
 ---
 
@@ -148,6 +156,22 @@ Developer performance analytics and coding progress visualization.
 
 ---
 
+## Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushdevo&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
 ## Current Goals
 
 - Build production-grade AI systems
@@ -160,16 +184,16 @@ Developer performance analytics and coding progress visualization.
 
 ## Connect With Me
 
-📧 Email: ayushtiwaridsai@gmail.com
+📧 Email: **ayushtiwaridsai@gmail.com**
 
-🌐 Portfolio: https://ayushrao.tech
+🌐 Portfolio: **https://ayushrao.tech**
 
-💼 LinkedIn: https://linkedin.com/in/ayus-tiwari
+💼 LinkedIn: **https://linkedin.com/in/ayus-tiwari**
 
-🐙 GitHub: https://github.com/Ayushdevo
+🐙 GitHub: **https://github.com/Ayushdevo**
 
-📊 Kaggle: https://www.kaggle.com/ayushtiwariiitg
+📊 Kaggle: **https://www.kaggle.com/ayushtiwariiitg**
 
 ---
 
-> "The best way to predict the future is to build it."
+> *"The best way to predict the future is to build it."*
