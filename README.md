@@ -179,9 +179,6 @@ Developer analytics platform for tracking coding performance and growth.
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayushdevo&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayushdevo&theme=tokyonight" />
