@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://ayushrao.tech">
+<a href="[ayush-rao-portfolio.notion.site](https://app.notion.com/p/ayush-rao-portfolio/Ayush-Tiwari-081eaef00d0d4c11883d0cdf06d54a1e?source=copy_link)">
 <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome"/>
 </a>
 
