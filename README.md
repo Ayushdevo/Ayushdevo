@@ -30,6 +30,7 @@
 </div>
 
 ---
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 # 🚀 About Me
 
@@ -63,7 +64,7 @@ class AyushTiwari:
 ```
 
 ---
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 # ⚡ System Status
 
 ```text
