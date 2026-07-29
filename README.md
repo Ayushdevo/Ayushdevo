@@ -1,6 +1,9 @@
 <div align="center">
+    
+<a href="https://regional-marmot.super.site/">
+<img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F5AF0&height=250&section=header&text=Ayush%20Tiwari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20•%20AI%20Engineer%20•%20Generative%20AI&descAlignY=60" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+That+Learn;Training+Models+at+Scale;Developing+Autonomous+Agents;Engineering+Production+ML+Pipelines;Exploring+LLMs+and+Generative+AI;Transforming+Ideas+Into+Intelligence" />
 
@@ -222,7 +225,7 @@ Developer analytics platform for tracking coding performance and growth.
 
 📧 **Email:** ayushtiwaridsai@gmail.com
 
-🌐 **Portfolio:** https://ayushrao.tech
+🌐 **Portfolio:** https://regional-marmot.super.site/
 
 💼 **LinkedIn:** https://linkedin.com/in/ayus-tiwari
 
