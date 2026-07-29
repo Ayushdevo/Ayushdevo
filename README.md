@@ -29,7 +29,6 @@
 
 </div>
 
----
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 # 🚀 About Me
@@ -63,7 +62,7 @@ class AyushTiwari:
         return "Transforming ideas into intelligent systems"
 ```
 
----
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 # ⚡ System Status
 
@@ -78,14 +77,14 @@ class AyushTiwari:
 ╰──────────────────────────────────────────────╯
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 # 🧠 Mission
 
 Building AI systems that don't just predict —
 
 they reason, remember, collaborate, and evolve.
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 ### Current Areas of Interest
 
 - Agentic AI
@@ -95,8 +94,7 @@ they reason, remember, collaborate, and evolve.
 - Real-Time AI Systems
 - MLOps & Production AI
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 # 🔭 What I'm Working On
 
 - Building AI-powered applications and autonomous agents
@@ -105,17 +103,17 @@ they reason, remember, collaborate, and evolve.
 - Contributing to open-source AI projects
 - Creating scalable AI solutions for real-world problems
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 # 💼 Featured Projects
 
-## Aura
+## Aura(in development)
 
 Personal AI Digital Twin capable of memory, reasoning, contextual assistance, and personalized interactions.
 
 **Tech Stack:** Python • FastAPI • LLMs • Vector Databases
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## CivicPulse AI
 
@@ -123,7 +121,7 @@ AI-powered civic intelligence platform for extracting actionable insights from p
 
 **Tech Stack:** Python • NLP • Machine Learning
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## Open Source Intelligence Platform
 
@@ -131,7 +129,7 @@ Automated intelligence gathering and analysis framework powered by modern AI pip
 
 **Tech Stack:** Python • Data Pipelines • LLMs
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## Leet Heat
 
@@ -139,7 +137,7 @@ Developer analytics platform for tracking coding performance and growth.
 
 **Tech Stack:** React • FastAPI • PostgreSQL
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 # 🛠️ Tech Stack
 
@@ -150,7 +148,7 @@ Developer analytics platform for tracking coding performance and growth.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## AI & Machine Learning
 
@@ -161,7 +159,7 @@ Developer analytics platform for tracking coding performance and growth.
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## Data Science
 
@@ -169,7 +167,7 @@ Developer analytics platform for tracking coding performance and growth.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## Backend & Infrastructure
 
@@ -179,7 +177,7 @@ Developer analytics platform for tracking coding performance and growth.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 # 📊 GitHub Analytics
 
@@ -192,7 +190,7 @@ Developer analytics platform for tracking coding performance and growth.
 <img src="https://streak-stats.demolab.com?user=Ayushdevo&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 # 📈 Contribution Graph
 
@@ -200,7 +198,7 @@ Developer analytics platform for tracking coding performance and growth.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushdevo&bg_color=0d1117&color=36BCF7&line=7F5AF0&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 
 # 🎯 Current Goals
@@ -212,7 +210,7 @@ Developer analytics platform for tracking coding performance and growth.
 - Participate in Kaggle competitions
 - Secure top AI/ML engineering opportunities
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 # 🐍 Contribution Snake
 
@@ -220,8 +218,7 @@ Developer analytics platform for tracking coding performance and growth.
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 # 🤝 Connect With Me
 
 📧 **Email:** ayushtiwaridsai@gmail.com
@@ -234,7 +231,7 @@ Developer analytics platform for tracking coding performance and growth.
 
 📊 **Kaggle:** https://www.kaggle.com/ayushtiwariiitg
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
 
