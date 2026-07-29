@@ -1,15 +1,13 @@
 <div align="center">
     
-<a href="https://regional-marmot.super.site/">
-<img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome"/>
-</a>
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+That+Learn;Training+Models+at+Scale;Developing+Autonomous+Agents;Engineering+Production+ML+Pipelines;Exploring+LLMs+and+Generative+AI;Transforming+Ideas+Into+Intelligence" />
 
 <br>
 
-<a href="ayush-rao.notion.sie">
+<a href="https://regional-marmot.super.site/">
 <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome"/>
 </a>
 
