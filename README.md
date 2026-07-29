@@ -238,3 +238,4 @@ Developer analytics platform for tracking coding performance and growth.
 ### 💡 "The best way to predict the future is to build it."
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F5AF0&height=150&section=footer&animation=fadeIn" width="100%"/>
