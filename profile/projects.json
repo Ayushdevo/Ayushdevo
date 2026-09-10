@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "name": "Aura",
+      "focus": "personal AI and digital twin",
+      "stack": ["Python", "FastAPI", "LLMs", "vector databases"]
+    },
+    {
+      "name": "CivicPulse AI",
+      "focus": "civic intelligence",
+      "stack": ["Python", "NLP", "Machine Learning"]
+    },
+    {
+      "name": "Open Source Intelligence Platform",
+      "focus": "automated intelligence workflows",
+      "stack": ["Python", "data pipelines", "LLMs"]
+    },
+    {
+      "name": "Leet Heat",
+      "focus": "developer analytics",
+      "stack": ["React", "FastAPI", "PostgreSQL"]
+    }
+  ]
+}
