@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "profile_owner": "Ayushdevo",
+  "default_branch": "main",
+  "sources": {
+    "projects": "profile/projects.json",
+    "skills": "profile/skills.json",
+    "readme": "README.md"
+  },
+  "validation": {
+    "require_nonempty_projects": true,
+    "require_nonempty_skill_groups": true,
+    "allow_duplicate_projects": false
+  }
+}
