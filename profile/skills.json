@@ -1,0 +1,6 @@
+{
+  "languages": ["Python", "C++", "Java", "SQL"],
+  "machine_learning": ["PyTorch", "TensorFlow", "scikit-learn", "Hugging Face", "LangChain", "LangGraph"],
+  "data": ["Pandas", "NumPy", "Matplotlib"],
+  "backend_infrastructure": ["FastAPI", "Docker", "Kafka", "PostgreSQL", "MongoDB"]
+}
