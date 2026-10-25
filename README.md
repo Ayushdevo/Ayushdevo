@@ -142,7 +142,7 @@ An experimental AI assistant focused on persistent context, tool-assisted reason
 
 ## Experience
 
-**Machine Learning Engineering Intern — FlyRank AI / 10x.ai**
+**Machine Learning Engineering Intern — 10x.ai**
 
 - Worked through applied AI/ML engineering assignments and capstones.
 - Completed 26 assignments and three accepted capstone projects.
