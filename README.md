@@ -4,8 +4,6 @@
 # Ayush Tiwari
 
 ### AI/ML Engineer · Agentic AI Developer · Open-Source Contributor
-
-B.Tech in Data Science & Artificial Intelligence  
 **Indian Institute of Technology Guwahati**
 
 Building reliable machine learning systems, intelligent agents, and data-driven applications.
