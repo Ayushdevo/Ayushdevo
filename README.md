@@ -1,243 +1,254 @@
-<div align="center">
-    
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+That+Learn;Training+Models+at+Scale;Developing+Autonomous+Agents;Engineering+Production+ML+Pipelines;Exploring+LLMs+and+Generative+AI;Transforming+Ideas+Into+Intelligence" />
-
-<br>
-
-<a href="https://regional-marmot.super.site/">
-<img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome"/>
-</a>
-
-<a href="mailto:ayushtiwaridsai@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-
-
-<a href="https://www.kaggle.com/ayushtiwariiitg">
-<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Ayushdevo&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-# 📈 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Activity">
-</p>
-# 🚀 About Me
-
-```python
-class AyushTiwari:
-
-    def __init__(self):
-
-        self.role = "Machine Learning Engineer"
-
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Generative AI",
-            "Large Language Models",
-            "MLOps",
-            "Computer Vision"
-        ]
-
-        self.currently_learning = [
-            "Agentic AI",
-            "Distributed Machine Learning",
-            "Production ML Systems",
-            "Advanced LLM Architectures"
-        ]
-
-        self.motto = "Build. Learn. Improve. Repeat."
-
-    def mission(self):
-        return "Transforming ideas into intelligent systems"
-```
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-# ⚡ System Status
-
-```text
-╭──────────────────────────────────────────────╮
-│ Name      : Ayush Tiwari                     │
-│ Role      : Machine Learning Engineer        │
-│ Focus     : Generative AI                    │
-│ Status    : Building & Learning              │
-│ Runtime   : Continuous Improvement           │
-│ Version   : v2.0                             │
-╰──────────────────────────────────────────────╯
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-# 🧠 Mission
-
-Building AI systems that don't just predict —
-
-they reason, remember, collaborate, and evolve.
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-### Current Areas of Interest
-
-- Agentic AI
-- Large Language Models
-- Deep Learning
-- Distributed Machine Learning
-- Real-Time AI Systems
-- MLOps & Production AI
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-# 🔭 What I'm Working On
-
-- Building AI-powered applications and autonomous agents
-- Developing production-grade Machine Learning systems
-- Exploring LLMs and Generative AI workflows
-- Contributing to open-source AI projects
-- Creating scalable AI solutions for real-world problems
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-# 💼 Featured Projects
-
-## Aura(in development)
-
-Personal AI Digital Twin capable of memory, reasoning, contextual assistance, and personalized interactions.
-
-**Tech Stack:** Python • FastAPI • LLMs • Vector Databases
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## CivicPulse AI
-
-AI-powered civic intelligence platform for extracting actionable insights from public data.
-
-**Tech Stack:** Python • NLP • Machine Learning
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## Open Source Intelligence Platform
-
-Automated intelligence gathering and analysis framework powered by modern AI pipelines.
-
-**Tech Stack:** Python • Data Pipelines • LLMs
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## Leet Heat
-
-Developer analytics platform for tracking coding performance and growth.
-
-**Tech Stack:** React • FastAPI • PostgreSQL
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-# 🛠️ Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## AI & Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## Backend & Infrastructure
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-# 📊 GitHub Analytics
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayushdevo&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Ayushdevo&theme=tokyonight&hide_border=true"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushdevo&bg_color=0d1117&color=36BCF7&line=7F5AF0&point=FFFFFF&area=true&hide_border=true"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-
-# 🎯 Current Goals
-
-- Build production-grade AI systems
-- Master LLM Engineering
-- Contribute to impactful open-source projects
-- Publish high-quality AI/ML projects
-- Participate in Kaggle competitions
-- Secure top AI/ML engineering opportunities
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-# 🤝 Connect With Me
-
-📧 **Email:** ayushtiwaridsai@gmail.com
-
-🌐 **Portfolio:** https://regional-marmot.super.site/
-
-💼 **LinkedIn:** https://linkedin.com/in/ayus-tiwari
-
-🐙 **GitHub:** https://github.com/Ayushdevo
-
-📊 **Kaggle:** https://www.kaggle.com/ayushtiwariiitg
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
 
-### 💡 "The best way to predict the future is to build it."
+# Ayush Tiwari
+
+### AI/ML Engineer · Agentic AI Developer · Open-Source Contributor
+
+B.Tech in Data Science & Artificial Intelligence  
+**Indian Institute of Technology Guwahati**
+
+Building reliable machine learning systems, intelligent agents, and data-driven applications.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ayushtiwari.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayus-tiwari)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ayushtiwariiitg)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushtiwaridsai@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushdevo&style=flat-square&color=0e75b6)
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F5AF0&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+---
+
+## About Me
+
+I'm a Data Science and AI undergraduate at **IIT Guwahati**, with hands-on experience in machine learning, deep learning, LLM applications, and AI product evaluation.
+
+My work focuses on building systems beyond notebooks — from data preprocessing and model training to evaluation, API integration, monitoring, and deployment.
+
+- **AI Engineering:** LLM applications, RAG, agent workflows, and evaluation
+- **Machine Learning:** Predictive modeling, deep learning, and computer vision
+- **MLOps:** Model monitoring, drift detection, retraining, and reproducibility
+- **Software Engineering:** Python backends, APIs, testing, and automation
+- **Open Source:** Exploring and contributing to AI/ML tooling and developer infrastructure
+
+Currently interested in **Agentic AI, ML reliability, model evaluation, and scalable inference systems**.
+
+---
+
+## Selected Projects
+
+### [SentinelML](https://github.com/Ayushdevo)
+
+**ML Monitoring & Automated Retraining Pipeline**
+
+A machine learning monitoring system designed to identify model degradation, detect data drift, and support retraining decisions.
+
+**Technical highlights**
+- Data drift and anomaly detection
+- Model health monitoring and performance evaluation
+- Retraining recommendations based on monitoring signals
+- Classification metrics and uncertainty analysis
+
+| Metric | Result |
+|---|---|
+| Accuracy | 98.00% |
+| Precision | 98.77% |
+| Recall | 94.12% |
+| F1 Score | 96.39% |
+| ROC-AUC | 0.9910 |
+
+`Python` `Scikit-learn` `Pandas` `MLOps` `Model Monitoring`
+
+### [CardioSense AI](https://github.com/Ayushdevo)
+
+**ECG Arrhythmia Classification Using Deep Learning**
+
+A CNN-based ECG classification project using the MIT-BIH Arrhythmia Database.
+
+**Technical highlights**
+- ECG signal preprocessing
+- Convolutional neural network architecture
+- Supervised classification of heartbeat patterns
+- Model training and performance evaluation
+
+**Reported accuracy:** ~96.6%
+
+`Python` `TensorFlow` `Keras` `CNN` `Signal Processing`
+
+### [Customer Segmentation](https://github.com/Ayushdevo)
+
+**Customer Analytics & Intelligent Segmentation**
+
+An end-to-end customer segmentation application combining unsupervised learning with interactive data exploration.
+
+**Technical highlights**
+- RFM-based customer feature engineering
+- K-Means clustering
+- Interactive Streamlit application
+- AI-assisted customer insights
+- Dockerized application workflow
+
+**Reported cluster purity:** 94.2%
+
+`Python` `Scikit-learn` `Pandas` `Streamlit` `Docker`
+
+### [AyushGPT](https://github.com/Ayushdevo)
+
+**Retrieval-Augmented Generation Assistant**
+
+An LLM-powered assistant exploring retrieval-augmented generation and contextual question answering.
+
+**Technical highlights**
+- Document ingestion and retrieval
+- Embedding-based semantic search
+- LLM integration using LangChain
+- Context-aware response generation
+
+`Python` `LangChain` `LLMs` `RAG` `Vector Search`
+
+### Aura — In Development
+
+**Personal AI Digital Twin**
+
+An experimental AI assistant focused on persistent context, tool-assisted reasoning, and personalized interactions.
+
+**Exploration areas**
+- Agent orchestration
+- Context and memory management
+- Tool calling and retrieval
+- Evaluation and reliability
+
+`Python` `FastAPI` `LLMs` `Agentic AI`
+
+> Explore more work in my [GitHub repositories](https://github.com/Ayushdevo?tab=repositories).
+
+---
+
+## Engineering Stack
+
+| Area | Technologies |
+|---|---|
+| Languages | Python, C++, Java, SQL |
+| Machine Learning | PyTorch, TensorFlow, Keras, Scikit-learn |
+| LLM Engineering | LangChain, LangGraph, Hugging Face, RAG |
+| Data Engineering | Pandas, NumPy, DuckDB, SQL |
+| Backend | FastAPI, Flask |
+| Applications | Streamlit, React, Next.js |
+| Infrastructure | Docker, Git, GitHub, Linux |
+| Computer Vision | OpenCV, CNNs |
+| Deployment | Vercel, Render |
+
+---
+
+## Experience
+
+**Machine Learning Engineering Intern — FlyRank AI / 10x.ai**
+
+- Worked through applied AI/ML engineering assignments and capstones.
+- Completed 26 assignments and three accepted capstone projects.
+- Gained practical experience in machine learning workflows and evaluation.
+
+**AI Product Quality Intern — MeetIQ / Ajencel**
+
+- Evaluated AI-generated content against reference information.
+- Investigated semantic inconsistencies and output reliability.
+- Documented evidence-backed findings for quality improvement.
+- Worked with structured evaluation and validation workflows.
+
+**AI Intern — Codec Technologies**
+
+- Developed responsive interfaces using React and modern frontend tooling.
+- Worked on application performance and user experience optimization.
+- Integrated interactive components into web applications.
+
+---
+
+## Open-Source Engineering
+
+I contribute to and study open-source projects across the AI/ML ecosystem, focusing on correctness, testing, reliability, and developer experience.
+
+Areas of interest include:
+
+- Regression testing and edge-case coverage
+- Numerical stability in ML libraries
+- Model execution and training workflows
+- Agent framework reliability
+- Documentation and developer tooling
+
+**Projects I follow and work with:**
+
+- [Hugging Face](https://github.com/huggingface)
+- [Google DeepMind Optax](https://github.com/google-deepmind/optax)
+- [LangGraph](https://github.com/langchain-ai/langgraph)
+- [Evidently](https://github.com/evidentlyai/evidently)
+- [OpenClaw](https://github.com/openclaw/openclaw)
+
+[Explore my public contributions](https://github.com/Ayushdevo?tab=overview)
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushdevo&theme=tokyonight" width="100%" alt="GitHub contribution summary"/>
+
+<img src="https://streak-stats.demolab.com?user=Ayushdevo&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+### 3D Contribution Graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph"/>
+
+</div>
+
+### Contribution Timeline
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushdevo&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub activity timeline"/>
+
+</div>
+
+---
+
+## Currently Exploring
+
+```yaml
+research_interests:
+  - Agentic AI and tool-using systems
+  - LLM evaluation and reliability
+  - Retrieval-augmented generation
+  - Machine learning observability
+  - Production inference and optimization
+
+engineering_priorities:
+  - Reproducible experiments
+  - Automated testing
+  - Robust model evaluation
+  - Maintainable software architecture
+  - Meaningful open-source contributions
+```
+
+---
+
+## Connect
+
+I'm interested in collaborating on open-source ML tooling, applied AI research, intelligent agents, and reliable AI applications.
+
+- **Website:** [ayushtiwari.tech](https://www.ayushtiwari.tech)
+- **GitHub:** [github.com/Ayushdevo](https://github.com/Ayushdevo)
+- **LinkedIn:** [linkedin.com/in/ayus-tiwari](https://linkedin.com/in/ayus-tiwari)
+- **Kaggle:** [ayushtiwariiitg](https://www.kaggle.com/ayushtiwariiitg)
+- **Email:** [ayushtiwaridsai@gmail.com](mailto:ayushtiwaridsai@gmail.com)
+
+<div align="center">
+
+**Build thoughtfully. Test rigorously. Improve continuously.**
+
+</div>
