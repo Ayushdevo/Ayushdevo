@@ -8,7 +8,7 @@ This repository is primarily profile documentation and public automation. Securi
 
 Please do not publish sensitive credentials or exploit details in a public issue. Contact the repository owner privately through the contact information on the GitHub profile.
 
-## Safe handling And feature reporting
+## Safe handling
 
 - Never commit API keys, tokens, passwords, or private data.
 - Use GitHub Actions secrets for credentials required by automation.
